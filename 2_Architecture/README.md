@@ -1,0 +1,5 @@
+# Attached :
+* ***STRUCTURAL DIAGRAM***
+* ***BEHAVIOURAL DIAGRAM***
+* ***STATE DIAGRAM***
+* ***UML DIAGRAM***
