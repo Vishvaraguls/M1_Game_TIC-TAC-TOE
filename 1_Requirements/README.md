@@ -44,3 +44,5 @@ HLR7 | After the game, the user sees the results|
 --- | --- |
 LLR2 | Players personal details like gender,contact number|
 
+# HIGH LEVEL :![High level](https://user-images.githubusercontent.com/69532303/142723126-2faf4876-c3d1-4247-93e1-c596e118bf3e.png)
+# LOW LEVEL  :![Lowlevel design](https://user-images.githubusercontent.com/69532303/142723104-1f651e05-f255-4166-8f53-28243125d0e3.png)
