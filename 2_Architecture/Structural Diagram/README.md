@@ -1,1 +1,1 @@
-## Structural Diagrams
+### Structural Diagram for TIC-TAC-TOE
