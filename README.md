@@ -1,4 +1,7 @@
 # ***TIC-TAC-TOE***
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f03dc87b53b4c11ae8f1c95be127ef6)](https://app.codacy.com/gh/Vishvaraguls/M1_Game_TIC-TAC-TOE?utm_source=github.com&utm_medium=referral&utm_content=Vishvaraguls/M1_Game_TIC-TAC-TOE&utm_campaign=Badge_Grade_Settings)
+
 ## INTRODUCTION
 * ***This game is very popular and is fairly simple by itself. It is actually a two player game. In this game, there is a board with n x n squares. In our game, it is 3 x 3 squares.*** 
 # BADGES
