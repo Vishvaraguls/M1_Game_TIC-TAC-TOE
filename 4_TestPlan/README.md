@@ -1,3 +1,13 @@
-# TEST PLAN 
-* Testing is that the major management live used throughout software package development. Its basic operate is to find errors within the software package. throughout demand analysis and style, the output may be a document that's sometimes matter and no feasible. when the cryptography section, laptop programs square measure obtainable which will be dead for testing purpose. this means that testing not solely, must uncover errors introduced throughout cryptography, however additionally errors introduced throughout previous section. therefore the goal of testing is to uncover the necessities, style and cryptography errors within the programs. Softer testing the outputs of my project square measure as follows:
- 
+# HIGH LEVEL TEST PLAN 
+| HLR1 | Users can use a web browser to obtain the information |
+--- | --- |
+HLR2 | From the landing page, the user should choose the game's difficulty level and begin playing|
+HLR3 | When a user moves, the game page allows them to move|
+HLR4 | The user can see the opponent's movements in real time on the game page|
+HLR5 | The user can pick up where they left off in a game that isn't yet finished|
+HLR6 | When one player gets three symbols in a row, the game should be over|
+HLR7 | After the game, the user sees the results|
+# LOW LEVEL TEST PLAN
+| LLR1 | Name of the player |
+--- | --- |
+LLR2 | Players personal details like gender,contact number|
