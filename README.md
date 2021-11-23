@@ -2,6 +2,7 @@
 ## INTRODUCTION
 * ***This game is very popular and is fairly simple by itself. It is actually a two player game. In this game, there is a board with n x n squares. In our game, it is 3 x 3 squares.*** 
 # BADGES
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a770c3b1fa184ffe8cbfbcb919bb8ef2)](https://www.codacy.com/gh/Vishvaraguls/M1_Game_TIC-TAC-TOE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vishvaraguls/M1_Game_TIC-TAC-TOE&amp;utm_campaign=Badge_Grade)
 ### FEATURES 
 * ***Play with 'X' or 'O'***
 * ***Either player or computer wins the game.***
