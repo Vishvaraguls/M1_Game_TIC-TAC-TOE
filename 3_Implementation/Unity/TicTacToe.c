@@ -94,7 +94,6 @@ int posswin(int p)
 {
 
     int i;
-    int check_val,pos;
 
     if(p == 1)
         check_val = 18;
